@@ -1,5 +1,7 @@
 # stacker
 
+# ⚠ Don't use this project.  Go supports generics now - do that instead. ⚠
+
 Install:
 
 ```bash
